@@ -8,8 +8,7 @@
 		padding: 20px 0px 10px 0px;
 		text-align: center;
 		border-bottom: 1px solid #E0E0E0;
-		position: fixed;
-		width: 100vw;
+		position:fixed !important;
 		top: 0;
 		background: #FFF;
 		z-index: 1;
@@ -73,12 +72,11 @@
     	background-repeat: no-repeat;
     	background-attachment: fixed;
     	margin-top: 65px;
-    	width: 100vw;
     	position: relative;
 	} 
 
 	.row{
-		margin-left: -18px;
+		margin-left: 0px;
 		margin-right: 0px;
 	}
 
@@ -111,7 +109,6 @@
 	.section-container{
 		text-align: center;
 		padding-top:50px;
-		width: 100vw;
 	}
 	
 	.section-heading{
@@ -439,7 +436,6 @@
 		color: #FFF;
 		padding: 20px 0px 20px 0px;
 		text-align: center;
-		width: 100vw;
 		font-size: 20px;
 		margin-bottom: 0PX;
 	}
