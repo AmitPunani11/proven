@@ -76,8 +76,8 @@
 	} 
 
 	.row{
-		margin-right: 1px;
-		margin-left: -18px;
+		margin-right: 0px !important;
+		margin-left: 0px !important;
 	}
 
 	.intro-text-container{
